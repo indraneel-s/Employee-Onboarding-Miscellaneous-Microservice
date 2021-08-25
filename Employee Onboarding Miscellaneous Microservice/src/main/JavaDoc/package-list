@@ -1,0 +1,5 @@
+com.microservice
+com.microservice.controller
+com.microservice.entity
+com.microservice.repository
+com.microservice.service
